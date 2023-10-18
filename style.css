@@ -34,6 +34,24 @@ body {
     color: var(--OCEAN);
 }
 
+.projects{
+    
+}
+
+.projects ul {
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+}
+
+.projects li {
+    width: 33.3%;
+}
+
+.projects li img {
+    width: 100%;
+}
+
 .active {
     color: var(--OCEAN;)
 }
